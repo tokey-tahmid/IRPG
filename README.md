@@ -1,2 +1,2 @@
-# GDTest_BallJumper
-This project is for a Game Developer Technical Test.
+# Indie RPG
+This is an RPG Project made with Unity 3D.
